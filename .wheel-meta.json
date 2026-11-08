@@ -1,0 +1,22 @@
+{
+  "wheel_id": 817,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-120",
+  "project": "fencing-contractors-toowoomba-checklist-45f5633c3587c5b09618e1c",
+  "parent_t1_ref": "toowoombafencing-159",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba checklist",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-checklist-45f5633c3587c5b09618e1c/",
+  "tier": "T2",
+  "writeback_nonce": "caa8232073764bbc",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/toowoombafencing-159/",
+      "anchor": "https://sitesau.github.io/toowoombafencing-159/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
